@@ -147,11 +147,6 @@ sudo ufw status
 
 ---
 
-## 🖼️ Sample Images
-
-*(Add your screenshots in the `images/` folder and reference them in the above placeholders)*
-
----
 
 ## 👤 Author
 
