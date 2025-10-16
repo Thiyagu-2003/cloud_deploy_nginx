@@ -112,8 +112,11 @@ http://<your-ec2-public-ip>
 If everything is configured correctly, your website should load successfully.
 
 **📸 Screenshot:**
+
 ![Website Deployed](images/website-deployed.png)
-![Website Deployed](images/website-deployed (2).png)
+
+![Website Deployed 2](images/website-deployed-2.png)
+
 
 ---
 
