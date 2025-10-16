@@ -48,10 +48,6 @@ or from your terminal:
 
 ```bash
 ssh -i "your-key.pem" ubuntu@your-ec2-public-ip
-````
-
-**📸 Screenshot:**
-![EC2 Connect](images/ec2-connect.png)
 
 ---
 
@@ -114,6 +110,8 @@ If everything is configured correctly, your website should load successfully.
 **📸 Screenshot:**
 ![Website Deployed](images/website-deployed.png)
 
+![Website Deployed](images/website-deployed (2).png)
+
 ---
 
 ### 🔒 Step 6: (Optional) Configure Firewall
@@ -143,15 +141,10 @@ sudo ufw status
 
 ---
 
-## 🖼️ Sample Images
-
-*(Add your screenshots in the `images/` folder and reference them in the above placeholders)*
-
----
-
 ## 👤 Author
 
 **Thiyagu S**
 Deployed with ❤️ on **AWS Cloud** using **EC2 & Nginx**.
 
 ---
+
